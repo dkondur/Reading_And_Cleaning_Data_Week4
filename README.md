@@ -15,5 +15,5 @@ You should create one R script called run_analysis.R that does the following.
 2. Make sure that the data directory "UCI HAR Dataset" is under your working directory
 3. Run the R file. This will generate a file called tidy_data.txt
 
-## Depedencies
+## Dependencies
 data.table and reshape2 packages are required for this program to run.
