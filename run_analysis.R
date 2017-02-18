@@ -149,4 +149,4 @@ names(tidyData) = c("Subject",
 
 
 
-write.table(tidyData, file = "./tidy_data.txt")
+write.table(tidyData, file = "./tidy_data.txt", row.name="false")
